@@ -1,0 +1,1 @@
+ E:\\src\\flutter_projects\\test5hour\\.dart_tool\\flutter_build\\a3bc3c167f39146b5acdbe397c663752\\native_assets.yaml: 
